@@ -114,7 +114,7 @@ const SidebarList: React.FC<SidebarListProps> = ({
         </h3>
         <div className="mt-2 text-left">
           <p>
-            Please note that InfraChat is currently in its pilot phase with limited user access. As an AI-powered tool, while we strive for accuracy, there may be instances of inaccuracies or unexpected responses. We're continuously working to improve and refine the system. We strongly advise not to use any sensitive or corporate-specific information while interacting with InfraChat. Any information shared is used solely for the purpose of improving the system's responses.
+            Please note that InfraChat is currently in its pilot phase with limited user access. As an AI-powered tool, while we strive for accuracy, there may be instances of inaccuracies or unexpected responses. We are re continuously working to improve and refine the system. We strongly advise not to use any sensitive or corporate-specific information while interacting with InfraChat. Any information shared is used solely for the purpose of improving the system&apos;s responses.
           </p>
         </div>
       </footer>

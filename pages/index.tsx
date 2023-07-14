@@ -431,11 +431,11 @@ export default function Home() {
                 </ul>
 
                 <div className="text-base mb-4">
-                  Please note that while InfraChat strives for accuracy, due to the inherent limitations of AI models, there may be instances of inaccuracies or unexpected responses. We're continuously working to improve and refine the system. We strongly advise not to use any sensitive or corporate-specific information while interacting with InfraChat.
+                  Please note that while InfraChat strives for accuracy, due to the inherent limitations of AI models, there may be instances of inaccuracies or unexpected responses. We are re continuously working to improve and refine the system. We strongly advise not to use any sensitive or corporate-specific information while interacting with InfraChat.
                 </div>
 
                 <button onClick={handleOkClick} className="mt-3 px-4 py-2 bg-blue-500 text-white rounded">
-                  Let's go!
+                  Let&apos;s go!
                 </button>
                 </div>
               </div>
